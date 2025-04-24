@@ -12,35 +12,29 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 ### STEP 1: 
 
-Write your own steps
+Data Preparation
 
 ### STEP 2: 
 
-
+Design the CNN Architecture
 
 ### STEP 3: 
 
-
+Compile the Model
 
 ### STEP 4: 
 
-
+Train the Model
 
 ### STEP 5: 
 
-
-
-### STEP 6: 
-
-
-
-
+Evaluate and Improve
 
 ## PROGRAM
 
-### Name:
+### Name: GIRITHICK ROHAN
 
-### Register Number:
+### Register Number: 212223230063
 
 ```python
 class CNNClassifier(nn.Module):
@@ -80,4 +74,4 @@ Include classification report here
 Include your sample input and output here
 
 ## RESULT
-Include your result here
+Thus,To develop a convolutional neural network (CNN) classification model for the given dataset excuted sucessfully.
